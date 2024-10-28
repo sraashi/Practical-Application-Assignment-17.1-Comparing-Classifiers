@@ -1,6 +1,6 @@
 # Practical-Application-Assignment-17.1-Comparing-Classifiers
 
-Link to the assignment: 
+Link to the assignment: https://github.com/sraashi/Practical-Application-Assignment-17.1-Comparing-Classifiers/blob/main/Practical%20Assignment%2017.1-checkpoint.ipynb
 
 Here the task is to use the CRISP-DM strategy on a banking dataset, applying various models to predict which customer will subscribe to a term deposit given various parameters. 
 
